@@ -2,13 +2,12 @@
 # Tools Hack Akun IG | Multi Hack IG
 ```
 $ pkg install git
-$ git clone https://github.com/DarkCurut08/IGHack
+$ git clone https://www.instagram.com/nandni.jogi?igsh=ZGtzN3hwa20zb3E1
 $ cd IGHack
 $ sh install.sh
 $ bash Moreno77.sh
 ```
 # Contact
 ```
-Instagram = @rdh05._
-Youtube = DarkCurut08
+Instagram = @nandni.jogi
 ```
