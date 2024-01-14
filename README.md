@@ -9,6 +9,5 @@ $ bash Moreno77.sh
 ```
 # Contact
 ```
-Instagram = @rdh05._
-Youtube = DarkCurut08
+Instagram = @nandni.jogi
 ```
